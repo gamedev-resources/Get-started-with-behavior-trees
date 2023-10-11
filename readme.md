@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/get-started-with-behavior-trees/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # Get started with Behavior Trees
 
